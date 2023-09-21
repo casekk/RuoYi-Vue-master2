@@ -58,7 +58,7 @@ public class Chongzhi extends BaseEntity
     private Long czjine;
 
     /** 备注 */
-    @Excel(name = "备注")
+    @Excel(name = "备注ww")
     private String beizhu;
 
     /** 充值状态 */
