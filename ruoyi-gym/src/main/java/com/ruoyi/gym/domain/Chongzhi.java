@@ -54,7 +54,7 @@ public class Chongzhi extends BaseEntity
     private Date date;
 
     /** 充值金额 */
-    @Excel(name = "充值金额")
+    @Excel(name = "充值金额ww")
     private Long czjine;
 
     /** 备注 */
