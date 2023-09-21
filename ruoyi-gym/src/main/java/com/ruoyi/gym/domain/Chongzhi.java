@@ -27,7 +27,7 @@ public class Chongzhi extends BaseEntity
     private Long id;
 
     /** 会员编号 */
-    @Excel(name = "会员编号")
+    @Excel(name = "会员编号 hello")
     private Long memberid;
     private String memberName;
 
