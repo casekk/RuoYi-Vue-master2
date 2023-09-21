@@ -27,7 +27,7 @@ public class Chongzhi extends BaseEntity
     private Long id;
 
     /** 会员编号 */
-    @Excel(name = "会员编号 hello master")
+    @Excel(name = "会员编号 hello")
     private Long memberid;
     private String memberName;
 
@@ -54,11 +54,11 @@ public class Chongzhi extends BaseEntity
     private Date date;
 
     /** 充值金额 */
-    @Excel(name = "充值金额ww")
+    @Excel(name = "充值金额")
     private Long czjine;
 
     /** 备注 */
-    @Excel(name = "备注ww")
+    @Excel(name = "备注")
     private String beizhu;
 
     /** 充值状态 */
